@@ -1,0 +1,7 @@
+# requisitos 
+
+*Gerar uma estrutura de dados para manter
+ o estado de cada um das casas de un jogo da velha.
+ 
+ * cada casa do jogo velaha podera estar vazia, oculpada
+ pelo lo jogador ou oculpar peio 2o jogador
